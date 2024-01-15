@@ -1,4 +1,4 @@
-First project using Hardhat,
+I've done a project using Hardhat,
 
 Followed Buildspace course to mint my own NFT collection using a Web3 app.
 
